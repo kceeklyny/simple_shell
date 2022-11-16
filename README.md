@@ -1,2 +1,1 @@
-# simple_shell
-ALX Shell Project
+ALX Shell Project as Final C project
